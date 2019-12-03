@@ -137,7 +137,7 @@ def train():
         train_op = optimizer.minimize(loss, var_list=tf.trainable_variables(), global_step=batch)
 
         # Add ops to save and restore all the variables.
-        saver = tf.train.Saver(max_to_keep=5)
+        saver = tf.train.Saver(max_to_keep=15)
 
         # Create a session
         config = tf.ConfigProto()
