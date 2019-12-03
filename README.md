@@ -24,9 +24,9 @@ cd data && python generate_input_list.py && python generate_train_test_list.py
 cd ..
 ```
 
-* (optional) Prepared HDF5 data for training is available [here](https://drive.google.com/).
+* (optional) Prepared HDF5 data for training is available [here](https://drive.google.com/open?id=1PjWweT61nmIX7zc2vJClhzHxyTHGvstQ).
 
-* (optional) Trained model can be downloaded from [here](https://drive.google.com/).
+* (optional) Trained model can be downloaded from [here](https://drive.google.com/open?id=1YioepsaYmpgqK3zqMtScoZEZBMjmSXMA).
 
 ## Usage
 
