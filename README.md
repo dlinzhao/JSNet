@@ -86,6 +86,6 @@ If our work is useful for your research, please consider citing:
 This code largely benefits from following repositories:
 [ASIS](https://github.com/WXinlong/ASIS),
 [PointNet++](https://github.com/charlesq34/pointnet2),
-[SGPN](https://github.com/laughtervv/SGPN),
-[DGCNN](https://github.com/WangYueFt/dgcnn) and
+[PointConv](https://github.com/DylanWusee/pointconv),
+[SGPN](https://github.com/laughtervv/SGPN) and
 [DiscLoss-tf](https://github.com/hq-jiang/instance-segmentation-with-discriminative-loss-tensorflow)
