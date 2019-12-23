@@ -1,6 +1,4 @@
-# JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds
-
-<!-- [[arXiv]](https://arxiv.org) -->
+# JSNet: Joint Instance and Semantic Segmentation of 3D Point Clouds [[arXiv]](https://arxiv.org/abs/1912.09654)
 
 ## Overview
 ![](misc/fig.png)
