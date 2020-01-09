@@ -6,7 +6,7 @@
 ## Dependencies
 
 The code has been tested with Python 3.5 on Ubuntu 16.04.
-*  [TensorFlow](https://www.tensorflow.org/)
+*  [TensorFlow 1.4](https://www.tensorflow.org/)
 *  h5py
 
 
